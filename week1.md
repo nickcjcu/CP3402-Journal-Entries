@@ -6,8 +6,8 @@ This week, I focused on revising foundational web development concepts and prepa
 To support my learning, I watched YouTube tutorials and read beginner-friendly articles on HTML, CSS, and Bootstrap, and I practised coding small sections of the site while referencing these materials. This hands-on approach helped me recall previously learned concepts and apply them in a practical context.
 
 **Resources:**  
-- https://www.youtube.com/watch?v=UB1O30fR-EE `[HTML basics tutorial]`  
-- https://www.youtube.com/watch?v=yfoY53QXEnI `[CSS styling tutorial]`  
+- https://www.youtube.com/watch?v=UB1O30fR-EE
+- https://www.youtube.com/watch?v=yfoY53QXEnI
 - https://www.sanity.io/build-static-website
 
 ## Estimated Hours

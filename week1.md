@@ -1,18 +1,20 @@
 # Week 1
 
-## Learning Activities & Resources 
-This week, I focused on learning how to use Joomla for the first time, as it was completely new to me. I initially started with Joomla version 6 and tried to use the Gantry “Gnarly” template, but it didn’t work well, so I switched to Joomla 5.4 where the template was more compatible. I spent time exploring Joomla’s interface, understanding how articles, modules, and menus interact, and setting up the basic file structure for my site. I created the first versions of the homepage, about us page, and features page, making sure they were properly linked through the navigation bar. To support my learning, I watched YouTube tutorials on Joomla basics and navigation, reviewed the provided course learning materials, and read articles on template compatibility. Initially, the system was a bit confusing, but experimenting with page creation and linking while following guided materials helped me get the hang of how Joomla works.
+## Learning Activities & Resources
+This week, I focused on revising foundational web development concepts and preparing to create a simple static website for my startup, ActionBoost. I revisited how HTML is used to structure webpages, including creating headings, paragraphs, images, and links. I also practised using CSS to control layout, colours, fonts, and spacing to make the pages visually appealing and easy to read. To support my learning, I explored basic Bootstrap templates to understand grid layouts and responsive design. I experimented with creating a homepage, an about us page, and a features page, making sure each page contained enough information for a visitor to understand the purpose of the startup. I also learned how to link these pages together through a navigation bar so users could move around the site easily.  
+
+To support my learning, I watched YouTube tutorials and read beginner-friendly articles on HTML, CSS, and Bootstrap, and I practised coding small sections of the site while referencing these materials. This hands-on approach helped me recall previously learned concepts and apply them in a practical context.
 
 **Resources:**  
-  - https://www.youtube.com/watch?v=DJhZTVZVWw0
-  - https://www.youtube.com/watch?v=ZwuBeeGgyw4
-  - https://www.reddit.com/r/joomla/comments/17sfg60/joomla_template_obsolesence/
+- https://www.youtube.com/watch?v=UB1O30fR-EE `[HTML basics tutorial]`  
+- https://www.youtube.com/watch?v=yfoY53QXEnI `[CSS styling tutorial]`  
+- https://www.sanity.io/build-static-website
 
 ## Estimated Hours
-Approximately 3–4 hours.
+Approximately 2–3 hours.
 
 ## Content Insights
-Using the Gantry theme “Gnarly” was a good introduction to learning how to use Joomla’s elements without needing to build a theme from scratch. I initially started with Joomla 6, but the theme was incompatible, so I switched to Joomla 5.4 where it worked correctly. This week, I focused on setting up the basic file structure and creating my first pages including the home page, about us page, and features page, ensuring they were properly linked through the navigation bar. At first, Joomla’s structure was hard to understand, but by watching tutorials and reviewing course materials, I learned how articles, modules, and menus interact. The combination of guided learning and hands-on experimentation helped me grasp Joomla’s architecture and how content is managed, which is crucial for building functional websites.
+This week helped me refresh and consolidate my understanding of the basic building blocks of websites. I realised that HTML provides the content and structure, while CSS controls how it looks, and combining the two effectively is essential for creating readable and visually consistent pages. Practising linking pages and creating a navigation bar reinforced the idea of user experience design and showed me how even simple websites require careful planning to guide visitors. Using Bootstrap templates also gave me a clearer idea of responsive design principles and how to make websites adapt to different screen sizes.  
 
 ## Career/Employability/Learning Insights
-I reflected on how persistence and problem solving are key when learning new tools. Encountering theme compatibility issues taught me that technical research and adaptability are important skills in web development. Watching tutorials and referring to documentation reinforced the idea that combining guided learning with hands-on practice is the most effective way for me to understand a new system. Understanding CMS structure and page linking is directly relevant to future web development work and demonstrates my ability to learn new software tools independently.
+Revising foundational web development concepts is important for employability because it ensures that I have a solid understanding of how websites are built and structured. Being confident with HTML, CSS, and basic layout techniques is a skill that will be relevant for any web development or IT role. I also learned that practising by building small examples and experimenting with layouts improves retention and understanding, which is a useful approach for learning new tools or technologies in the workplace.

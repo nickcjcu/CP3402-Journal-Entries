@@ -7,7 +7,7 @@ To support my learning, I watched YouTube tutorials and read beginner-friendly a
 
 **Resources:**  
 - https://www.youtube.com/watch?v=UB1O30fR-EE
-- https://www.youtube.com/watch?v=yfoY53QXEnI
+- https://www.justinmind.com/web-design
 - https://www.sanity.io/build-static-website
 
 ## Estimated Hours
